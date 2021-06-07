@@ -1,0 +1,1 @@
+document.getElementById("tweet_text_input").innerText = "hey this is the javascript"
